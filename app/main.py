@@ -1,6 +1,6 @@
 import discord
-import dotenv
 import os
+import dotenv
 
 from server import server_thread
 
